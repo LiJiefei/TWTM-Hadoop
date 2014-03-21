@@ -1,4 +1,4 @@
-Tag-Weighted Topic Model for Mining Semi-Structured Documents
+Hadoop For Tag-Weighted Topic Model
 ============================================================
 The code of http://dl.acm.org/citation.cfm?id=2540540 <br/>
 Author: Shuangyin Li, Jiefei Li, Rong Pan <br/>

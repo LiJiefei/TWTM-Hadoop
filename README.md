@@ -1,6 +1,6 @@
 Hadoop For Tag-Weighted Topic Model
 ============================================================
-The code of http://dl.acm.org/citation.cfm?id=2540540 <br/>
+The hadoop code of http://dl.acm.org/citation.cfm?id=2540540 <br/>
 Author: Shuangyin Li, Jiefei Li, Rong Pan <br/>
 Sun Yat-sen University <br/>
 <br/>
@@ -26,6 +26,6 @@ limitations under the License. <br/>
 Usage
 --------------------------------------------------------------------
 ###Runing:
-For the distribute method 1 please the c-hadoop-streaming-v1/README.md
-For the distribute method 2 please the c-hadoop-streaming-v2/README.md
-For the distribute method 3 please the c-hadoop-streaming-v3/README.md
+For the distribute method 1 please the c-hadoop-streaming-v1/README.md <br/>
+For the distribute method 2 please the c-hadoop-streaming-v2/README.md <br/>
+For the distribute method 3 please the c-hadoop-streaming-v3/README.md <br/>

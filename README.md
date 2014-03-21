@@ -24,19 +24,7 @@ limitations under the License. <br/>
 
 
 Usage
--------------------------------------------------------------
-###Input file format: <br/>
-DocNumLabels label1 label2 ... @ DocNumWords word1 word2 ...<br/>
-DocNumLabels label1 label2 ... @ DocNumWords word1 word2 ...<br/>
-DocNumLabels label1 label2 ... @ DocNumWords word1 word2 ...<br/>
-
-Each row represent one document with labels. DocNumLables means the number labels of document. DocNumWords means the number words of document. Each label is integer and represent one label. Each word is integer and represent one word.<br/>
-<br/>
-demo/twtm.demo.input is a simple demo input file.<br/>
-demo/label.txt is the label dictionary file. The word in row 1 means the label0.<br/>
-demo/words.dic is the word dictionary file.<br/>
-<br/>
-<br/>
+--------------------------------------------------------------------
 ###Runing:
 For the distribute method 1 please the c-hadoop-streaming-v1/README.md
 For the distribute method 2 please the c-hadoop-streaming-v2/README.md

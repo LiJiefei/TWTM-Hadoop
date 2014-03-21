@@ -26,6 +26,6 @@ limitations under the License. <br/>
 Usage
 --------------------------------------------------------------------
 ###Runing:
-For the distribute method 1 please the c-hadoop-streaming-v1/README.md <br/>
-For the distribute method 2 please the c-hadoop-streaming-v2/README.md <br/>
-For the distribute method 3 please the c-hadoop-streaming-v3/README.md <br/>
+For the distribute method 1 please see the c-hadoop-streaming-v1/README.md <br/>
+For the distribute method 2 please see the c-hadoop-streaming-v2/README.md <br/>
+For the distribute method 3 please see the c-hadoop-streaming-v3/README.md <br/>
